@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf085361-7ad6-4a46-87e5-9f86ea23f94f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/booklist/src/components/BookDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/booklist/src/components/BookForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/booklist/src/components/BookList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/booklist/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/booklist/src/contexts/BookContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contextapp/src/components/BookList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contextapp/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contextapp/src/components/ThemeToggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contextapp/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contextapp/src/context/BookContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contextapp/src/context/ThemeContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooksapp/src/components/NewSongForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooksapp/src/components/SongList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booklist/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/booklist/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/booklist/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booklist/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/booklist/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booklist/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contextapp/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contextapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/contextapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contextapp/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contextapp/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/contextapp/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contextapp/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contextapp/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooksapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hooksapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooksapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hooksapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooksapp/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooksapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooksapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooksapp/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooksapp/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooksapp/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hooksapp" />
+  </component>
+  <component name="ProjectId" id="1cZpPCkrkGnKRXrFKnRl2bJTvEn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf085361-7ad6-4a46-87e5-9f86ea23f94f" name="Default Changelist" comment="" />
+      <created>1590745943032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590745943032</updated>
+      <workItem from="1590745944438" duration="3909000" />
+      <workItem from="1590760305505" duration="2495000" />
+      <workItem from="1591606777007" duration="279000" />
+      <workItem from="1593415798944" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="962" y="-775" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590762361724">
+      <screen x="717" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="962" y="-775" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/717.-1057.1920.1057/0.23.1440.789@717.-1057.1920.1057" timestamp="1590762361724" />
+    <state x="717" y="-890" key="SettingsEditor" timestamp="1590760477448">
+      <screen x="717" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="717" y="-890" key="SettingsEditor/717.-1057.1920.1057/0.23.1440.789@717.-1057.1920.1057" timestamp="1590760477448" />
+  </component>
+</project>
